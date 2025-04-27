@@ -11,7 +11,7 @@ st.set_page_config(page_title="Texto a Audio", page_icon="🎵", layout="centere
 st.title("🎶 Conversión de Texto a Audio 🎶")
 
 # Imagen principal
-image = Image.open('gato_raton.png')  # Asegúrate de tener esta imagen
+image = Image.open('cielo.jpg')  
 st.image(image, width=300)
 
 # Sidebar
