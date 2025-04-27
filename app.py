@@ -12,7 +12,7 @@ st.title("🎶 Conversión de Texto a Audio 🎶")
 
 # Imagen principal
 image = Image.open('cielo.jpg')  
-st.image(image, width=300)
+st.image(image, width=800)
 
 # Sidebar
 with st.sidebar:
